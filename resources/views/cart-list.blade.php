@@ -1,10 +1,6 @@
 @extends('layouts.main')
 @section('content')
 
-@php        
-
-
-@endphp
 <section class="h-100 h-custom">
   <div class="container h-100 py-5">
  
